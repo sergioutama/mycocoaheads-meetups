@@ -9,11 +9,22 @@ List of previous talks from MYCocoaHeads meetups. We are on <a href="https://www
   - <a href="https://github.com/irekasoft/CocoaHeads-Realm" target="_blank">Source code #1</a>
   - <a href="https://github.com/irekasoft/Realm-LoadFromFile" target="_blank">Source code #2</a>
 
+- Taming Autolayout by <a href="https://www.facebook.com/sergioutama" target="_blank">Sergio Utama</a>
+  - <a href="https://speakerdeck.com/sergioutama/taming-autolayout" target="_blank">Slide</a>
+  
+## February 2016
+
+- 10 Things I Learned While Freelancing by <a href="https://www.facebook.com/sergioutama" target="_blank">Sergio Utama</a>
+  - <a href="https://speakerdeck.com/sergioutama/10-things-i-learned-while-freelancing" target="_blank">Slide</a>
+
 ## January 2016
 
 - RxSwift + MVVM by <a href="https://www.facebook.com/alienxp03" target="_blank">Azuan</a>
   - <a href="https://github.com/alienxp03/HazeDemo" target="_blank">Source code</a>
   - <a href="https://speakerdeck.com/alienxp03/rxswift-plus-mvvm" target="_blank">Slides</a>
+
+- iOS Video Player by <a href="https://www.facebook.com/sergioutama" target="_blank">Sergio Utama</a>
+  - <a href="https://speakerdeck.com/sergioutama/ios-video-player" target="_blank">Slide</a>
 
 ## December 2015
 
@@ -33,6 +44,9 @@ List of previous talks from MYCocoaHeads meetups. We are on <a href="https://www
 - Dependencies Manager by <a href="https://www.facebook.com/dalisojngoma" target="_blank">Daliso Ngoma</a>
   - <a href="https://www.dropbox.com/sh/vewbnio5wz2o9oa/AAAE1cFLZs5H2I81LqDcLUWpa" target="_blank">Slides</a>
 
+- Tribute to Mantle <a href="https://www.facebook.com/sergioutama" target="_blank">Sergio Utama</a>
+  - <a href="https://speakerdeck.com/sergioutama/tribute-to-mantle" target="_blank">Slide</a>
+  
 ## October 2015
 
 
@@ -54,3 +68,6 @@ List of previous talks from MYCocoaHeads meetups. We are on <a href="https://www
 
   - <a href="https://github.com/alienxp03/MetalDemo" target="_blank">Source code</a>
   - <a href="https://speakerdeck.com/alienxp03/metal-demo" target="_blank">Slides</a>
+  
+- Mobile Analytics by <a href="https://www.facebook.com/sergioutama" target="_blank">Sergio Utama</a>
+  - <a href="https://speakerdeck.com/sergioutama/mobile-analytics" target="_blank">Slide</a>
